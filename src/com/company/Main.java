@@ -7,6 +7,7 @@ public class Main {
     int i=2;
     int a=0;
     int b=0;
+
     System.out.println("Cocktail sort");
     System.out.print("Исходный массив: "+j[0]+",");
     System.out.print(j[1]+",");

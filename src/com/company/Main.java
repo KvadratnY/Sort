@@ -39,6 +39,7 @@ public class Main {
             }
         }
     }
+
     System.out.print("Результат: "+j[0]+",");
     System.out.print(j[1]+",");
     System.out.print(j[2]+",");

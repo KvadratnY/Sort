@@ -19,6 +19,7 @@ public class Main {
     System.out.print(j[7]+",");
     System.out.print(j[8]+",");
     System.out.println(j[9]);
+
     while (i>0) {
         i=0;
         for (int k=0;k<9;k++) {

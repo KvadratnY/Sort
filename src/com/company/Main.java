@@ -52,5 +52,6 @@ public class Main {
     System.out.print(j[7]+",");
     System.out.print(j[8]+",");
     System.out.println(j[9]);
+
     }
 }
